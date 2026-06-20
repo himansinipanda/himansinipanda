@@ -1,55 +1,56 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11,20&height=220&section=header&text=Himansini%20Panda&fontSize=46&fontColor=ff00ff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Coder%20%7C%20Cyber%20Explorer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001233,001845,023e7d,0077b6,0096c7,48cae4&height=220&section=header&text=Himansini%20Panda&fontSize=46&fontColor=90E0EF&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Open%20Source%20Learner&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=%F0%9F%92%BB+Computer+Science+Student;%F0%9F%8C%B1+Learning+Programming%2C+Web+%26+Software+Dev;%F0%9F%9A%80+Exploring+Python%2C+Git+%26+Open+Source;%F0%9F%93%9A+Always+curious+to+learn+and+build" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=48CAE4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%26+CS+Student;%F0%9F%8C%B1+Learning+Ethical+Hacking+%26+Cyber+Awareness;%F0%9F%9A%80+Exploring+Python%2C+Git+%26+Open+Source;%F0%9F%93%9A+Always+curious+to+learn+and+build" alt="Typing SVG" />
 </a>
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himansini-panda-769909330/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/himansini._.09)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himansinipanda@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himansinipanda)
-![Profile Views](https://komarev.com/ghpvc/?username=himansinipanda&color=ff00ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=himansinipanda&color=0096c7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🧬 About Me
+## 🛡️ About Me
 
 <table>
 <tr>
 <td width="55%">
 
 ```bash
-┌──(himansini㉿neon)-[~]
+┌──(himansini㉿secure)-[~]
 └─$ whoami
 
   Name     : Himansini Panda
-  Role     : Computer Science Student
+  Role     : Cybersecurity Enthusiast & CS Student
   Location : Cuttack, Odisha, India 🇮🇳
   Focus    :
-    - Web & Software Development
+    - Cybersecurity & Cyber Awareness
+    - Ethical Hacking Fundamentals
     - Python, Git & Open Source
-    - Cybercrime & Digital Safety Awareness
-    - Frontend Design (HTML5 · CSS3)
-  Status   : 🎯 Focusing — Learning. Building. Leveling Up.
-  Fun Fact : I turn lines of code into glowing
-             neon ideas ✨
+    - Secure Coding (C · C++ · Python)
+  Status   : 🎯 Focusing — Learning. Securing. Building.
+  Fun Fact : I'm fascinated by how systems break
+             so I can learn to protect them 🔐
 ```
 
 </td>
 <td width="45%" align="center">
 
 ### ⚡ Quick Facts
-- 💻 Aspiring **Software Developer**
+- 🛡️ Aspiring **Cybersecurity Professional**
 - 🌱 Currently learning **CS & Engineering**
 - 🚀 Exploring **Python · Git · Open Source**
-- 🛡️ Into **Cyber Awareness** projects
+- 🔐 Building **Cyber Awareness** projects
 - 📬 **himansinipanda@gmail.com**
 
 </td>
@@ -62,13 +63,14 @@
 
 <div align="center">
 
-| 🔮 Skill | 💬 Description |
+| 🔐 Skill | 💬 Description |
 |:---|:---|
-| 💻 Development | C · C++ · Python · HTML5 · CSS3 projects |
-| 🌐 Web Design | Clean, responsive frontend pages |
-| 🛡️ Cyber Awareness | Projects on digital safety & online security |
-| 🎮 Backend Integration | Python Flask web apps with game logic |
-| 🗄️ Databases | MySQL fundamentals |
+| 🛡️ Cyber Awareness | Projects promoting digital safety & online security education |
+| 💻 Secure Coding Foundations | C · C++ · Python programming fundamentals |
+| 🌐 Web Basics | HTML5 · CSS3 for frontend awareness sites |
+| 🐧 Linux Familiarity | Comfortable working in Ubuntu environments |
+| 🗂️ Version Control | Git & GitHub for collaborative, trackable work |
+| 📓 Data & Experimentation | Jupyter Notebook for hands-on exploration |
 
 </div>
 
@@ -78,14 +80,14 @@
 
 <div align="center">
 
-### 💻 Programming & Development
+### 💻 Languages & Markup
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=dark" />
 </a>
 
-### ⚙️ Dev Tools
+### ⚙️ Tools & Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,windows,ubuntu&theme=dark" />
 </a>
 
 </div>
@@ -95,12 +97,12 @@
 ## 🎯 Featured Projects
 
 ```text
-🧮 A Simple Calculator        ██████████████  100%  - Clean Calculator App
-🌐 Kitchen Website            ██████████████  100%  - Frontend Web Design with HTML & CSS
-🛡️ Cybercrime Awareness       ██████████████  100%  - HTML/CSS Cybercrime Awareness Project
-🎮 Tic-Tac-Toe (Flask)        ██████████████  100%  - Python Flask Web Game with Dashboard
-💜 Girls' Awareness Website   ██████████████  100%  - Education, Safety & Cyber Awareness Hub
-🕵️ Next Project               ░░░░░░░░░░░░░░    0%  - Coming Soon...
+🛡️ Cybercrime Awareness        ██████████████  100%  - HTML/CSS Cybercrime Awareness Project
+💜 Girls' Awareness Website    ██████████████  100%  - Education, Safety & Cyber Awareness Hub
+🎮 Tic-Tac-Toe (Flask)         ██████████████  100%  - Python Flask Web Game with Dashboard
+🌐 Kitchen Website             ██████████████  100%  - Frontend Web Design with HTML & CSS
+🧮 A Simple Calculator         ██████████████  100%  - Clean Calculator App
+🕵️ Next Security Project       ░░░░░░░░░░░░░░    0%  - Coming Soon...
 ```
 
 ---
@@ -111,11 +113,11 @@
 
 | 📦 Repository | 📝 Description | 🛠️ Tech Stack |
 |:---|:---|:---|
-| [🧮 **A-simple-calculator**](https://github.com/himansinipanda/A-simple-calculator) | A clean and simple calculator app | C/C++/Python |
-| [🌐 **Kitchen-Website**](https://github.com/himansinipanda/Kitchen-Website) | A simple kitchen website frontend page | HTML · CSS |
-| [🛡️ **Cybercrime-Awareness-Project**](https://github.com/himansinipanda/Cybercrime-Awareness-Project) | A small cybercrime awareness project | HTML · CSS |
-| [🎮 **Tic-Tac-Toe (Flask)**](https://github.com/himansinipanda/Tic-Tac-Toe-using-python-flask-) | Tic Tac Toe web game with a clean dashboard, demonstrating backend–frontend integration | Python · Flask · HTML/CSS |
+| [🛡️ **Cybercrime-Awareness-Project**](https://github.com/himansinipanda/Cybercrime-Awareness-Project) | A small cybercrime awareness project for digital safety education | HTML · CSS |
 | [💜 **Girls-Awareness-Website**](https://github.com/himansinipanda/Girl-s-Awareness-Website-forntend) | Frontend-only awareness site promoting girls' education, safety, health, legal rights & cyber awareness | HTML5 · CSS3 |
+| [🎮 **Tic-Tac-Toe (Flask)**](https://github.com/himansinipanda/Tic-Tac-Toe-using-python-flask-) | Tic Tac Toe web game with a clean dashboard, demonstrating backend–frontend integration | Python · Flask · HTML/CSS |
+| [🌐 **Kitchen-Website**](https://github.com/himansinipanda/Kitchen-Website) | A simple kitchen website frontend page | HTML · CSS |
+| [🧮 **A-simple-calculator**](https://github.com/himansinipanda/A-simple-calculator) | A clean and simple calculator app | C/C++/Python |
 
 </div>
 
@@ -124,12 +126,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=himansinipanda&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=ff00ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=himansinipanda&theme=synthwave&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=himansinipanda&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=87CEFA&icon_color=00BFFF&text_color=B0E0E6&ring_color=1E90FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=himansinipanda&hide_border=true&background=0D1117&border=1E90FF&stroke=1E90FF&ring=00BFFF&fire=00BFFF&currStreakNum=87CEFA&sideNums=87CEFA&currStreakLabel=87CEFA&sideLabels=B0E0E6&dates=8FD3FE" />
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansinipanda&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansinipanda&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=87CEFA&text_color=B0E0E6" />
 </div>
 
 ---
@@ -137,10 +139,14 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himansinipanda&theme=neon&hide_border=true&area=true&color=00f0ff&line=ff00ff&point=ffffff&custom_title=Himansini's%20Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himansinipanda&hide_border=true&area=true&bg_color=87CEEB&color=00008B&line=00008B&point=000045&area_color=0000CD&custom_title=Himansini's%20Contribution%20Graph" width="95%"/>
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&animation=twinkling" width="55%"/>
+</div>
 
 ## 🐍 Contribution Snake
 
@@ -159,7 +165,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=himansinipanda&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="95%"/>
+  <img src="https://github-trophies.vercel.app/?username=himansinipanda&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="95%"/>
 </div>
 
 ---
@@ -168,9 +174,7 @@
 
 ### ✍️ Quote of the Day
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-> *"Code is the closest thing we have to magic."* — **Anonymous**
+> *"Security is not a product, but a process."* — **Bruce Schneier**
 
 </div>
 
@@ -182,25 +186,25 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║   "Stay curious. Stay coding. Stay glowing."             ║
-║                                    — Himansini Panda      ║
+║   "Stay curious. Stay secure. Stay coding."               ║
+║                                    — Himansini Panda       ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 **🎯 Hobbies & Interests:**
-- 🌱 Learning new programming languages & frameworks
-- 🛡️ Building awareness projects for digital & social safety
-- 🎮 Building small games and interactive web apps
+- 🛡️ Exploring cybersecurity & ethical hacking fundamentals
+- 🐧 Getting comfortable in Linux (Ubuntu) environments
+- 💻 Practicing programming in C, C++ & Python
 - 📚 Always curious to learn and build something new
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11,20&height=120&section=footer&fontColor=ff00ff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001233,001845,023e7d,0077b6,0096c7,48cae4&height=120&section=footer&fontColor=90E0EF&animation=twinkling" width="100%"/>
 
-**💜 Glowing through code, one neon line at a time.**
+**🛡️ Securing the digital world, one line of code at a time.**
 
 </div>
