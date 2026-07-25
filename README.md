@@ -97,6 +97,7 @@
 ## 🎯 Featured Projects
 
 ```text
+🖱️ Virtula Mouse               ██████████████  100%  - Control your PC with just your hand!
 🛡️ Cybercrime Awareness        ██████████████  100%  - HTML/CSS Cybercrime Awareness Project
 💜 Girls' Awareness Website    ██████████████  100%  - Education, Safety & Cyber Awareness Hub
 🎮 Tic-Tac-Toe (Flask)         ██████████████  100%  - Python Flask Web Game with Dashboard
@@ -105,6 +106,24 @@
 🕵️ Next Security Project       ░░░░░░░░░░░░░░    0%  - Coming Soon...
 ```
 
+<div align="center">
+  ### 🖱️ AI-Powered Virtual Mouse Using Hand Gesture Recognition
+
+A real-time virtual mouse controlled using hand gestures, developed collaboratively with Himansini Panda.
+
+**Technologies:**
+- Python
+- OpenCV
+- MediaPipe
+- PyAutoGUI
+
+🔗 **Project Repository:** [View on GitHub](https://github.com/Bismaya-Himansini-Projects/Virtual_Mouse_Hand_Gesture_Controlled)
+
+👥 **Project:** Bismaya Guruprasad Panda & Himansini Panda
+
+
+  
+</div>
 ---
 
 ## 🔝 Top Repositories
