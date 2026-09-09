@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001233,001845,023e7d,0077b6,0096c7,48cae4&height=220&section=header&text=Himansini%20Panda&fontSize=46&fontColor=90E0EF&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20webdevelopment%20%7C%20Open%20Source%20Learner&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001233,001845,023e7d,0077b6,0096c7,48cae4&height=220&section=header&text=Himansini%20Panda&fontSize=46&fontColor=90E0EF&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20web development%20%7C%20Open%20Source%20Learner&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=48CAE4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%26+CS+Student;%F0%9F%8C%B1+Learning+Ethical+Hacking+%26+Cyber+Awareness;%F0%9F%9A%80+Exploring+Python%2C+Git+%26+Open+Source;%F0%9F%93%9A+Always+curious+to+learn+and+build" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=48CAE4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%26+CS+Student;%F0%9F%8C%B1%26;%F0%9F%9A%80+Exploring+Python%2C+Git+%26+Open+Source;%F0%9F%93%9A+Always+curious+to+learn+and+build" alt="Typing SVG" />
 </a>
 
 <br/>
