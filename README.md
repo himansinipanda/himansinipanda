@@ -84,9 +84,16 @@
 <p align="center">Floating on loop — my everyday toolkit 👇</p>
 
 <div align="center">
-<marquee behavior="scroll" direction="left" scrollamount="6">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,nodejs,express,flask,mysql,sqlite,git,github,docker,vscode,figma,postman,windows,powershell,linux,aws,vercel&theme=dark"/>
-</marquee>
+
+<!-- Animated Tech Stack Slider -->
+<a href="https://skillicons.dev">
+  <img src="./tech_stack_animated.svg" alt="Animated Tech Stack" width="100%" />
+</a>
+
+<br/>
+<br/>
+
+
 </div>
 
 
