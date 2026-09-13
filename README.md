@@ -103,7 +103,7 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/himansinipanda/himansinipanda/output/github-contribution-grid-snake.svg" />
 </picture>
 
-*(Generated automatically once the Snake Action below is set up)*
+
 
 </div>
 
