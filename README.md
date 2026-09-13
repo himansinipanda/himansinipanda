@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph" width="100%" />
 
 </div>
 
