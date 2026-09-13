@@ -1,27 +1,23 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001233,001845,023e7d,0077b6,0096c7,48cae4&height=220&section=header&text=Himansini%20Panda&fontSize=46&fontColor=90E0EF&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20web development%20%7C%20Open%20Source%20Learner&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=48CAE4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%26+CS+Student;%F0%9F%8C%B1%26;%F0%9F%9A%80+Exploring+Python%2C+Git+%26+Open+Source;%F0%9F%93%9A+Always+curious+to+learn+and+build" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B721FF,50:7F00FF,100:00C9A7&height=200&section=header&text=Himansini%20Panda&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Developer%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himansini-panda-769909330/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/himansini._.09)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himansinipanda@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himansinipanda)
-![Profile Views](https://komarev.com/ghpvc/?username=himansinipanda&color=0096c7&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- Windows Terminal style intro -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=20&duration=3000&pause=1000&color=C792EA&background=1B1027&center=true&vCenter=true&width=650&height=110&lines=PS+C%3A%5CUsers%5CHimansini%3E+whoami;Himansini+Panda+-+CSE+Undergraduate;Learning+Python%2C+Java%2C+Web+%26+DSA;Building+cool+projects+one+commit+at+a+time+%F0%9F%9A%80"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=himansinipanda&color=9D4EDD&style=flat-square&label=Profile+Views" alt="profile views"/>
+<a href="https://instagram.com/himansini._.09"><img src="https://img.shields.io/badge/Instagram-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:himansinipanda@gmail.com"><img src="https://img.shields.io/badge/Gmail-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## 🛡️ About Me
-
+### 👩‍💻 About Me
 <table>
 <tr>
 <td width="55%">
@@ -31,26 +27,20 @@
 └─$ whoami
 
   Name     : Himansini Panda
-  Role     : Cybersecurity Enthusiast & CS Student
-  Location : Cuttack, Odisha, India 🇮🇳
-  Focus    :
-    - Cybersecurity & Cyber Awareness
-    - Ethical Hacking Fundamentals
-    - Python, Git & Open Source
-    - Secure Coding (C · C++ · Python)
+  Role     : Computer Science and Engineering Student
+  Location : Cuttack, Odisha, India
+  Focus    : - Python, Git & Open Source
+             - Secure Coding (C · C++ · Python)
   Status   : 🎯 Focusing — Learning. Securing. Building.
   Fun Fact : I'm fascinated by how systems break
              so I can learn to protect them 🔐
 ```
-
 </td>
 <td width="45%" align="center">
 
 ### ⚡ Quick Facts
-- 🛡️ Aspiring **Cybersecurity Professional**
 - 🌱 Currently learning **CS & Engineering**
 - 🚀 Exploring **Python · Git · Open Source**
-- 🔐 Building **Cyber Awareness** projects
 - 📬 **himansinipanda@gmail.com**
 
 </td>
@@ -59,135 +49,69 @@
 
 ---
 
-## 💡 What I Bring
+### 📊 GitHub Statistics
 
 <div align="center">
 
-| 🔐 Skill | 💬 Description |
-|:---|:---|
-| 🛡️ Cyber Awareness | Projects promoting digital safety & online security education |
-| 💻 Secure Coding Foundations | C · C++ · Python programming fundamentals |
-| 🌐 Web Basics | HTML5 · CSS3 for frontend awareness sites |
-| 🐧 Linux Familiarity | Comfortable working in Ubuntu environments |
-| 🗂️ Version Control | Git & GitHub for collaborative, trackable work |
-| 📓 Data & Experimentation | Jupyter Notebook for hands-on exploration |
+<img src="https://github-readme-stats.vercel.app/api?username=himansinipanda&show_icons=true&theme=radical&hide_border=true&bg_color=141321&title_color=C792EA&icon_color=9D4EDD&text_color=E0AAFF&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansinipanda&layout=donut&theme=radical&hide_border=true&bg_color=141321&title_color=C792EA&text_color=E0AAFF" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himansinipanda&theme=radical&hide_border=true&background=141321&ring=9D4EDD&fire=C792EA&currStreakLabel=C792EA" alt="streak stats"/>
 
 </div>
 
----
+**🧱 3D Contribution Blocks** *(one-time setup needed — see notes below)*
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Languages & Markup
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=dark" />
-</a>
-
-### ⚙️ Tools & Platforms
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,windows,ubuntu&theme=dark" />
-</a>
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-```text
-🖱️ Virtula Mouse               ██████████████  100%  - Control your PC with just your hand!
-🛡️ Cybercrime Awareness        ██████████████  100%  - HTML/CSS Cybercrime Awareness Project
-💜 Girls' Awareness Website    ██████████████  100%  - Education, Safety & Cyber Awareness Hub
-🎮 Tic-Tac-Toe (Flask)         ██████████████  100%  - Python Flask Web Game with Dashboard
-🌐 Kitchen Website             ██████████████  100%  - Frontend Web Design with HTML & CSS
-🧮 A Simple Calculator         ██████████████  100%  - Clean Calculator App
-🕵️ Next Security Project       ░░░░░░░░░░░░░░    0%  - Coming Soon...
+```
+![3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
 ```
 
-<div align="center">
-  ### 🖱️ AI-Powered Virtual Mouse Using Hand Gesture Recognition
-
-A real-time virtual mouse controlled using hand gestures, developed collaboratively with Himansini Panda.
-
-**Technologies:**
-- Python
-- OpenCV
-- MediaPipe
-- PyAutoGUI
-
-🔗 **Project Repository:** [View on GitHub](https://github.com/Bismaya-Himansini-Projects/Virtual_Mouse_Hand_Gesture_Controlled)
-
-👥 **Project:** Bismaya Guruprasad Panda & Himansini Panda
-
-
-  
-</div>
 ---
 
-## 🔝 Top Repositories
+### 🏆 GitHub Trophies
 
 <div align="center">
-
-| 📦 Repository | 📝 Description | 🛠️ Tech Stack |
-|:---|:---|:---|
-| [🛡️ **Cybercrime-Awareness-Project**](https://github.com/himansinipanda/Cybercrime-Awareness-Project) | A small cybercrime awareness project for digital safety education | HTML · CSS |
-| [💜 **Girls-Awareness-Website**](https://github.com/himansinipanda/Girl-s-Awareness-Website-forntend) | Frontend-only awareness site promoting girls' education, safety, health, legal rights & cyber awareness | HTML5 · CSS3 |
-| [🎮 **Tic-Tac-Toe (Flask)**](https://github.com/himansinipanda/Tic-Tac-Toe-using-python-flask-) | Tic Tac Toe web game with a clean dashboard, demonstrating backend–frontend integration | Python · Flask · HTML/CSS |
-| [🌐 **Kitchen-Website**](https://github.com/himansinipanda/Kitchen-Website) | A simple kitchen website frontend page | HTML · CSS |
-| [🧮 **A-simple-calculator**](https://github.com/himansinipanda/A-simple-calculator) | A clean and simple calculator app | C/C++/Python |
-
+<img src="https://github-profile-trophy.vercel.app/?username=himansinipanda&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+### 🛠️ Tech Stack & Tools
+<p align="center">Floating on loop — my everyday toolkit 👇</p>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=himansinipanda&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=87CEFA&icon_color=00BFFF&text_color=B0E0E6&ring_color=1E90FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=himansinipanda&hide_border=true&background=0D1117&border=1E90FF&stroke=1E90FF&ring=00BFFF&fire=00BFFF&currStreakNum=87CEFA&sideNums=87CEFA&currStreakLabel=87CEFA&sideLabels=B0E0E6&dates=8FD3FE" />
+<marquee behavior="scroll" direction="left" scrollamount="6">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,react,nodejs,express,flask,mysql,sqlite,git,github,docker,vscode,figma,postman,windows,powershell,linux,aws,vercel&theme=dark"/>
+</marquee>
 </div>
 
+
+
+---
+
+### 🐍 Contribution Snake
+
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himansinipanda&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=87CEFA&text_color=B0E0E6" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himansinipanda/himansinipanda/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himansinipanda/himansinipanda/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/himansinipanda/himansinipanda/output/github-contribution-grid-snake.svg" />
+</picture>
+
+*(Generated automatically once the Snake Action below is set up)*
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:7F00FF,100:B721FF&height=120&section=footer"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himansinipanda&hide_border=true&area=true&bg_color=87CEEB&color=00008B&line=00008B&point=000045&area_color=0000CD&custom_title=Himansini's%20Contribution%20Graph" width="95%"/>
 </div>
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&animation=twinkling" width="55%"/>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himansinipanda/himansinipanda/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himansinipanda/himansinipanda/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/himansinipanda/himansinipanda/output/github-snake-dark.svg" width="90%"/>
-  </picture>
-</div>
-
-> 💡 *Snake animation activates automatically once the [snake workflow](https://github.com/Platane/snk) is added to this repo.*
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=himansinipanda&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="95%"/>
-</div>
-
----
 
 <div align="center">
 
@@ -209,21 +133,5 @@ A real-time virtual mouse controlled using hand gestures, developed collaborativ
 ║                                    — Himansini Panda       ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
-**🎯 Hobbies & Interests:**
-- 🛡️ Exploring cybersecurity & ethical hacking fundamentals
-- 🐧 Getting comfortable in Linux (Ubuntu) environments
-- 💻 Practicing programming in C, C++ & Python
-- 📚 Always curious to learn and build something new
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001233,001845,023e7d,0077b6,0096c7,48cae4&height=120&section=footer&fontColor=90E0EF&animation=twinkling" width="100%"/>
-
-**🛡️ Securing the digital world, one line of code at a time.**
 
 </div>
